@@ -1,0 +1,67 @@
+{
+  "version": "3.92.33225.0",
+  "course_id": "6olTSUxmsE5",
+  "title": "Cell Phone",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5zswUVgzOJu",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6JCKFGnpCJ5",
+      "title": "Home page",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6J0NKwK9Xlk",
+      "title": "Connection Settings",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5ibIUNP1a3N",
+      "title": "Blue Tooth Settings",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5Vf9fLVdBKG",
+      "title": "Display Settings",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6UW0x5AukBx",
+      "title": "General Settings",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6e1Wi0egaUr",
+      "title": "Sound Settings",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5saDhR0LX5r",
+      "title": "Untitled Slide",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6dGjAk0KBcl",
+      "title": "Thank you",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1940,
+    "height": 1198
+  },
+  "stage": {
+    "width": 1920,
+    "height": 1080
+  }
+}
